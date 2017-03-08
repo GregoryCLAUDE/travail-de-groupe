@@ -1,0 +1,33 @@
+
+
+header img{
+	width: 100px;
+}
+header a{
+	position: relative;
+	float: right;
+	padding: 10px;
+
+}
+
+ul li{
+	position: relative ;
+	text-align: center;
+	list-style: none;
+
+
+
+}
+
+footer{position:relative ;
+ top :130px;}
+footer img{
+	
+	position: relative ;
+	float: right;
+
+	size: 50px;
+	width: 50px;
+	
+
+}
